@@ -1,0 +1,29 @@
+_repo: The-new-book-of-Niagara-Scenes-in-summer-and-winter_68656
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2022-07-31'
+identifiers:
+  gutenberg: '68656'
+language: en
+pgterms:marc905: 20140422105925anonymous
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Juliet Sutherland, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Robert Allan Reid,1901.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The new book of Niagara: Scenes in summer and winter'
+url: http://www.gutenberg.org/ebooks/68656
